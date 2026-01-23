@@ -5,8 +5,7 @@ Pan de Bono por cámara, no tener TSK, tener la TSK recien puesta o acciones de 
 - David
 - Norman
 - Laura (culpa de Paola)
-- Pao 
-- Jeff
+- Pao
 - Daniel
 
 Pan de bono por Hallazgos
