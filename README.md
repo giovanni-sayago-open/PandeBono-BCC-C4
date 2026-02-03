@@ -4,7 +4,6 @@ Listado de deudores de pan de bono.
 Pan de Bono por cámara, no tener TSK, tener la TSK recien puesta o acciones de honorables compañeros:
 - David x3
 - Norman
-- Laura x 2 (culpa de Paola)
 - Pao
 - Daniel
 - Felipe
