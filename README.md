@@ -7,7 +7,6 @@ Pan de Bono por cámara, no tener TSK, tener la TSK recien puesta o acciones de 
 - Pao
 - Daniel
 - Felipe
-- Alex x 3
 - Jeff
 
 Pan de bono por Hallazgos
