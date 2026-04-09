@@ -11,5 +11,4 @@ Pan de Bono por cámara, no tener TSK, tener la TSK recien puesta o acciones de 
 - Giao
 
 Pan de bono por Hallazgos
-- Daniel
 - Felipe
