@@ -2,13 +2,11 @@
 Listado de deudores de pan de bono. 
 
 Pan de Bono por cámara, no tener TSK, tener la TSK recien puesta o acciones de honorables compañeros:
-- David x2
+- David
 - Norman
-- Pao
-- Daniel x2
+- Daniel 
 - Felipe
 - Jeff
-- Giao
 
 Pan de bono por Hallazgos
 - Felipe
