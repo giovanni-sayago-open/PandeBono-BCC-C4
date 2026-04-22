@@ -11,3 +11,6 @@ Pan de Bono por cámara, no tener TSK, tener la TSK recien puesta o acciones de 
 Pan de bono por Hallazgos
 - Felipe
 - Jeff
+
+Pan de bono por integrada:
+- Valen
