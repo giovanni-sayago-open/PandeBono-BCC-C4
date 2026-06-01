@@ -8,5 +8,5 @@ Pan de Bono por cámara, no tener TSK, tener la TSK recien puesta o acciones de 
 - Alejo
 
 Pan de bono por Hallazgos
-- Sebas
+- Felipe
 
