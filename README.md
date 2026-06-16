@@ -8,6 +8,3 @@ Pan de Bono por cámara, no tener TSK, tener la TSK recien puesta o acciones de 
 
 Pan de bono por Hallazgos
 - Felipe
-
-Superávit: el pago excedió las expectativas
-- Sebas
