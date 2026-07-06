@@ -4,7 +4,7 @@ Listado de deudores de pan de bono.
 Pan de Bono por cámara, no tener TSK, tener la TSK recien puesta o acciones de honorables compañeros:
 - Daniel
 - Alejo
-- David x2
+- David x3
 - Lau
 - Pao
 - Giao Admin pro max plus 
