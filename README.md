@@ -15,5 +15,8 @@ Pan de bono por Hallazgos
 Pan de bono por falta de TAG US:
 - 
 
+Pan de bono por decir sin asignación sin revisar el Kanban
+- David
+
 Pan de bono por exceso de ingresos
 - Adolfo el CAngry
