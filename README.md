@@ -10,6 +10,10 @@ Pan de Bono por cámara, no tener TSK, tener la TSK recien puesta o acciones de 
 - Giao x2
 
 Pan de bono por Hallazgos
+-
+
+Pan de bono por falta de TAG US:
+- 
 
 Pan de bono por exceso de ingresos
 - Adolfo el CAngry
