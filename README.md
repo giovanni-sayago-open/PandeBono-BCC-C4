@@ -8,7 +8,7 @@ Listado de deudores de pan de bono.
 - Felipe
 - Norman 
 - Sebas 
-- Giao x2
+- Giao
 
 #  Pan de bono por Hallazgos
 -
