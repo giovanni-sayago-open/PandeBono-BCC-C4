@@ -12,7 +12,7 @@ Listado de deudores de pan de bono.
 -
 
 # Pan de bono por falta de TAG US:
-- 
+- Sayago
 
 # Pan de bono por decir sin asignación sin revisar el Kanban
 
