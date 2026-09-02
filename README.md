@@ -2,17 +2,18 @@
 Listado de deudores de pan de bono. 
 
 # Pan de Bono por cámara, no tener TSK, tener la TSK recien puesta o acciones de honorables compañeros:
-- Alejo x2
+- Alejo x2 (x3 A conciencia)
 - David
 - Felipe
 - Norman 
 - Sebas 
 
 #  Pan de bono por Hallazgos
--
+- Norman (A conciencia)
 
 # Pan de bono por falta de TAG US:
 - Sayago
+- Felipe
 
 # Pan de bono por decir sin asignación sin revisar el Kanban
 
