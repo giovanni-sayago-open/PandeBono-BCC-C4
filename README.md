@@ -6,10 +6,11 @@ Listado de deudores de pan de bono.
 - David
 - Felipe
 - Norman 
-- Sebas 
+- Sebas
+- Sayago
 
 #  Pan de bono por Hallazgos
-- Norman (A conciencia)
+- Norman (complicado x  1/2)
 
 # Pan de bono por falta de TAG US:
 - Sayago
