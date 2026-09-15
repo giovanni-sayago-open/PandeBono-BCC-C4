@@ -2,8 +2,11 @@
 Listado de deudores de pan de bono. 
 
 # Pan de Bono por cámara, no tener TSK, tener la TSK recien puesta o acciones de honorables compañeros:
-- Felipe
-- Sayago x2
+- David
+- Felipe x2
+- Norman 
+- Sebas
+- Sayago
 
 #  Pan de bono por Hallazgos
 - Norman (complicado x  1/2)
