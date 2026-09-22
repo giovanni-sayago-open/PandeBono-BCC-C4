@@ -5,7 +5,6 @@ Listado de deudores de pan de bono.
 - David X2
 - Felipe x2
 - Norman 
-- Sebas
 - Sayago
 
 #  Pan de bono por Hallazgos
@@ -22,3 +21,4 @@ Listado de deudores de pan de bono.
 
 # Saldo a favor o buen tipo:
 - Jeferson
+- Sebas
