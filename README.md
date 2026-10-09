@@ -2,7 +2,7 @@
 Listado de deudores de pan de bono. 
 
 # Pan de Bono por cámara, no tener TSK, tener la TSK recien puesta o acciones de honorables compañeros:
-- David X2
+- David
 - Felipe x2
 - Norman 
 - Sayago
@@ -11,7 +11,6 @@ Listado de deudores de pan de bono.
 - Norman (complicado x  1/2)
 
 # Pan de bono por falta de TAG US y estado de la US:
-- Sayago
 - Felipe
 
 # Pan de bono por decir sin asignación sin revisar el Kanban
@@ -20,3 +19,4 @@ Listado de deudores de pan de bono.
 - Adolfo el CAngry
 
 # Saldo a favor o buen tipo:
+- Alejo
