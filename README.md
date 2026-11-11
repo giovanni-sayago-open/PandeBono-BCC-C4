@@ -9,6 +9,7 @@ Listado de deudores de pan de bono.
 
 #  Pan de bono por Hallazgos
 - Norman (complicado x  1/2)
+- Norman
 
 # Pan de bono por falta de TAG US y estado de la US:
 - Felipe
@@ -19,4 +20,3 @@ Listado de deudores de pan de bono.
 - Adolfo el CAngry
 
 # Saldo a favor o buen tipo:
-- Alejo
